@@ -29,7 +29,7 @@ I'm a second-year graduate student majoring in [Web Technologies](https://abit.i
 
 [![WebStorm](https://img.shields.io/badge/-WebStorm-00c7d0?style=flat-square&labelColor=f7e943&logo=WebStorm&logoColor=black)](#)
 [![VSCODE](https://img.shields.io/badge/-Visual_Code-28b0ee?style=flat-square&labelColor=0273b7&logo=VisualStudioCode&logoColor=white)](#)
-[![PyCharm](https://img.shields.io/badge/-PyCharm-20d088?style=flat-square&labelColor=f3ef49&logo=PyCharm&logoColor=black)](#) [![git](https://img.shields.io/badge/-git-red?style=flat-square&labelColor=black&logo=git&logoColor=red)](#)  [![Github](https://img.shields.io/badge/-GitHub-181717?style=flat-square&labelColor=gray&logo=GitHub&logoColor=white)](#)  [![Postman](https://img.shields.io/badge/-Postman-FCA121?style=flat-square&labelColor=black&logo=Postman&logoColor=FCA121)](#)
+[![PyCharm](https://img.shields.io/badge/-PyCharm-20d088?style=flat-square&labelColor=f3ef49&logo=PyCharm&logoColor=black)](#) [![git](https://img.shields.io/badge/-git-red?style=flat-square&labelColor=black&logo=git&logoColor=red)](#)  [![Github](https://img.shields.io/badge/-GitHub-181717?style=flat-square&labelColor=gray&logo=GitHub&logoColor=white)](#) [![Mercurial](https://img.shields.io/badge/-Mercurial-181717?style=flat-square&labelColor=gray&logo=Mercurial&logoColor=white)](#)  [![Postman](https://img.shields.io/badge/-Postman-FCA121?style=flat-square&labelColor=black&logo=Postman&logoColor=FCA121)](#)
 [![linux](https://img.shields.io/badge/-linux-f5d516?style=flat-square&labelColor=f2f2f2&logo=linux&logoColor=black)](#)
 
 ### Projects
