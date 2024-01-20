@@ -44,7 +44,7 @@ I'm a second-year graduate student majoring in [Web Technologies](https://abit.i
 -  Technologies: Flutter
 - [![Project Status](https://img.shields.io/badge/Status-Completed-green)](#)
 
-**[Handwritten digit recogintion](https://github.com/Pojerman/flutter-app)**
+**[Handwritten digit recogintion](https://github.com/Pojerman/handwritten-digit-recognition)**
 - Handwritten digit recogintion. Educational Project.
 -  Technologies: JavaScript, TensorFlow.JS
 - [![Project Status](https://img.shields.io/badge/Status-Completed-green)](#)
