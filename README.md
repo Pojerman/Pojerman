@@ -1,4 +1,4 @@
-### Hello, I'm Danil, 23 👋
+### Hello, I'm Danil, 24 👋
 
 I'm a second-year graduate student majoring in [Web Technologies](https://abit.itmo.ru/program/master/web_tech) at ITMO University. I have 9 months of commercial experience with Angular and have recently transitioned to React. You can also find me on [Telegram](https://t.me/Pojerman), [VK](https://vk.com/id79940999), and [Pojerman@yandex.ru](mailto:Pojerman@yandex.ru).
 
